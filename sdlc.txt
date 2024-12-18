@@ -1,2 +1,18 @@
 This is the file eher i wrote my notes of sdlc.
-what is your name.HI My Name is Narayan 
+what is your name.HI My Name is Narayan.
+
+This file is for pushing the codes to Git hub
+
+first write some content in  file
+
+run git status
+
+run git add filename
+
+run git status
+
+git commit -m 'message'
+
+git status
+
+git push -u origin main
