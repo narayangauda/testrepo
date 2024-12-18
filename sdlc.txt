@@ -16,3 +16,7 @@ git commit -m 'message'
 git status
 
 git push -u origin main
+
+Now the above text is upload
+
+Today we learned first linux command.
