@@ -24,3 +24,7 @@ Today we learned first linux command.
 Today is 19th Dec 2024 
 
 Good Morning
+
+So we have studied linux for these last few days and I feel better at navigating the bash shell.
+
+We learned few of the text manipulating commands such as grep,awk,sed,cut and its operations.
