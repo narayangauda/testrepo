@@ -1,0 +1,30 @@
+This is the file eher i wrote my notes of sdlc.
+what is your name.HI My Name is Narayan.
+
+This file is for pushing the codes to Git hub
+
+first write some content in  file
+
+run git status
+
+run git add filename
+
+run git status
+
+git commit -m 'message'
+
+git status
+
+git push -u origin main
+
+Now the above text is upload
+
+Today we learned first linux command.
+
+Today is 19th Dec 2024 
+
+Good Morning
+
+So we have studied linux for these last few days and I feel better at navigating the bash shell.
+
+We learned few of the text manipulating commands such as grep,awk,sed,cut and its operations.
